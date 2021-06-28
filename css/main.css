@@ -43,7 +43,8 @@ header {
   color: white;
 }
 
-main {
+main,
+form {
   display: flex;
   flex-direction: column;
 }
@@ -324,4 +325,24 @@ li {
 
 .skills {
   list-style: inside url("../media/svg/circle.svg");
+}
+
+footer {
+  padding: 2rem;
+}
+
+form {
+  width: 50%;
+}
+
+.flex-group {
+  margin-top: 1rem;
+}
+
+.flex-group input {
+  width: 49%;
+}
+
+textarea {
+  margin: 1rem 0;
 }

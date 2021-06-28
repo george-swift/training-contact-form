@@ -1,5 +1,12 @@
-# curriculum-cr-training-contact-form
+# Curriculum-cr-training-contact-form
 
 This repo host an initial code for the tasks performed during the Code Reviewers training.
 
 Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+
+### Project Specifications
+The section built for this milestone is the Contact Form. It:
+- is in the footer section
+- has a form element with inputs for name and email using the Formspree service
+- has a text area in the form for messages
+- uses flexbox
